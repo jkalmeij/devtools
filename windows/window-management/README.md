@@ -8,6 +8,11 @@ Additionally, certain applications can take a long time to open, so you want to 
 
 Learn more: <https://support.microsoft.com/en-us/windows/multiple-desktops-in-windows-36f52e38-5b4a-557b-2ff9-e1a60c976434>
 
+## Useful plugins
+
+- [Explorer Patcher](https://github.com/valinet/ExplorerPatcher/releases): Windows 11 TaskBar is not great for multitasking. Reverts to something that does not combine windows for the same application.
+  - As of Windows Version `22H2 OS Build 22621.1413` I had to apply [this workaround](https://github.com/valinet/ExplorerPatcher/discussions/1087#discussioncomment-5346671)
+
 ## Useful shortcuts
 
 ### Task Bar
